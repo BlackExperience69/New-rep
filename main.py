@@ -217,7 +217,7 @@ def mess(message):
                         f"<b>Смертей: </b>{location['deaths']:,}"
 
     else:
-        final_message = f"Произведи запрос парвильно, пожалуйста\nЯ тебя не понимаю :("
+        final_message = f"Произведи запрос правильно, пожалуйста\nЯ тебя не понимаю :("
 
     if flag:
         if final_message == "":
